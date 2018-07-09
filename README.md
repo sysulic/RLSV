@@ -1,2 +1,2 @@
 # RLSV
-This repository is corresponding to to paper "[Representation Learning for Scene Graph Completion via Jointly Structural and Visual Embedding](https://raw.githubusercontent.com/sysulic/RLSV/master/IJCAI18_RLSV.pdf)" accepted by IJCAI 2018. Codes and data will be provided soon.
+This repository is corresponding to to paper "[Representation Learning for Scene Graph Completion via Jointly Structural and Visual Embedding](https://sysulic.github.io/RLSV/IJCAI18_RLSV.pdf)" accepted by IJCAI 2018. Codes and data will be provided soon.
